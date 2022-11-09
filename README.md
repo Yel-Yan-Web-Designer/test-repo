@@ -7,4 +7,5 @@
 
 ### Add new feature
 
-I am updating read me
+Writing instruction in read me file,Hello world
+
