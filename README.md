@@ -6,3 +6,5 @@
 ### Add navigation bar
 
 ### Add new feature
+
+Writing instruction in read me file
