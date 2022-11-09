@@ -59,9 +59,8 @@ button{
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 5px;
-    background-color: hsl(55, 60%, 70%);
-    border: 2px solid red;
-    color: hsl(150, 30%, 20%);
+    background-color: hsl(150, 30%, 20%);
+    color: white;
     cursor: pointer;
     transition: 0.3s;
     user-select: none;
